@@ -1,0 +1,67 @@
+.custom-checkout-main {
+	border: 2px solid #1A86E2;
+	padding:40px;
+	background-color: #ECFCFF;
+}
+.custom-checkout-form-tabs .nav-tabs {
+	border-bottom: 1px solid #1A86E2;	
+}
+
+.custom-checkout-form-tabs .nav-item .nav-link {
+	background-color: #ECFCFF;
+	color:#1A86E2;
+	padding:0 4px 0 4px;
+	width:180px;
+	box-shadow: none;
+	border-bottom: 1px solid #1A86E2;	
+
+}
+.custom-checkout-form-tabs .nav-item .nav-link.active {
+	background-color: #1A86E2;
+	color:#fff;
+
+}
+.custom-checkout-form-tabs .nav-item .nav-link .heading {
+	display: inline-block;
+	position: relative;
+	top:4px;
+}
+
+.custom-checkout-form-tabs .nav-item .nav-link .subheading{
+	font-size:10px;
+	position:relative;
+	top:-5px;
+}
+
+.custom-checkout-form-tabs .label_index {
+	font-size: 36px;
+	font-weight: 200;
+	display: inline-block;
+}
+
+.custom-checkout-submit-btn {
+	background-color: #2DB257;
+	color:#fff;
+	border:none;
+	width:100%;
+}
+.custom-checkout-submit-btn:hover{
+	background-color: #1A86E2 !important;
+}
+
+.custom-checkout-submit-btn .heading {
+	font-size:24px;
+	text-align: center;
+	font-weight: 500;
+
+}
+.custom-checkout-submit-btn .subtext {
+	font-size:13px;
+	text-align: center;
+	font-weight: 500;
+	position:relative;
+	top:-10px;
+}
+.custom-checkout-form.tab-content {
+	margin-top:20px;
+}
